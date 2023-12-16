@@ -4,32 +4,10 @@ permalink: "/about.html"
 image: "/assets/images/laurent.png"
 ---
 
-Hi, guys! The website you are previewing is a demonstration for Pintereso Jekyll theme and it is hosted on Github pages. There are various ways you can use Pintereso with your Jekyll website. Here are some of them:
+Hey, I'm the awesome artist everyone's talking about – the one and only me! I've got this incredible portfolio of drawings that are so untalented, they're practically a new kind of art. I call it 'Mess-terpieces.' You know, like a messy masterpiece? Yeah, I'm that good.
 
-- blogging
-- curated resources
-- affiliate marketing
-- resume
-- portfolio
-- photography
 
-**Features**
+My drawings are like modern abstract art mixed with a touch of chaos. I've got stick figures that look more like squiggly noodles and animals that seem to have taken a detour through a tornado. But you know what? It's all intentional. I'm a trailblazer in the world of untalented art, and I'm just getting started. Critics might not get it now, but they will – mark my words!
 
-- 100% Github Pages Compatibility
-- Bootstrap 4.x
-- SEO Integration
-- Search
-- Categories
-- Prev/Next Post
-- Pagination
-- Disqus Comments
-- Sitemap
-- Feed
-- Formspree Contact Form
-- Pinterest, AddThis, Google Analytics
-- Font Awesome 5+
-- Cookie Consent & Privacy Policy
 
-Made with <i class="fa fa-heart text-danger"></i> by Sal @wowthemesnet. Thanks for your <a target="_blank" href="https://www.wowthemes.net/freebies-license/">support</a>!
-
-<a class="btn btn-danger" href="https://github.com/wowthemesnet/template-pintereso-bootstrap-jekyll/archive/master.zip"><i class="fa fa-download"></i> pintereso.zip</a> <a target="_blank" class="btn btn-warning" href="https://www.wowthemes.net/donate/"><i class="fa fa-coffee"></i> Buy me a coffee?</a>
+So, if you want a glimpse into the mind of a genius (that's me, obviously), just take a look at my 'Mess-terpieces.' They'll make you laugh, cry, and question the very meaning of art. Who needs talent when you've got pure, unfiltered creativity like mine, right?
