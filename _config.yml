@@ -1,12 +1,11 @@
 # Site
-name: 'Pintereso'
-description: 'Pintereso is a free Jekyll theme for awesome people like you, Pinterest like.'
+name: 'test name'
+description: 'Test desc.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: '/template-pintereso-bootstrap-jekyll'
-avatar: 'assets/images/sal.jpg'
-disqus: 'demowebsite'
-email: 'wowthemesnet@gmail.com'
+baseurl: ''
+avatar: 'assets/images/avatar.png'
+#email: 'wowthemesnet@gmail.com'
 
 include: ["_pages"]
 permalink: /:title/
@@ -39,7 +38,7 @@ markdown: kramdown
 highlighter: rouge
 
 # Pagination
-paginate: 20
+paginate: 100
 
 
 # Exclude metadata and development time dependencies (like Grunt plugins)
