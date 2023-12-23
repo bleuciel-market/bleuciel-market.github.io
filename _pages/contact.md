@@ -3,7 +3,7 @@ title: "Kontakt"
 permalink: "/contact.html"
 ---
 
-<form action="https://formspree.io/{{site.email}}" method="POST">    
+<form action="https://formspree.io/f/moqgaygj" method="POST">    
 <p>Bitte senden Sie Ihre Nachricht an Bleuciel Market. Ich werde antworten, sobald ich schreiben kann, spätestens in ein paar Jahren!</p>
 <div class="form-group row">
 <div class="col-md-6">

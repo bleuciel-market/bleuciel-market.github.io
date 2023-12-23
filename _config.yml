@@ -5,7 +5,7 @@ logo: 'assets/images/Logo_1_Blau.svg' #logo.png'
 favicon: 'assets/images/Logo_1_Blau.svg'
 baseurl: ''
 avatar: #'assets/images/avatar.png'
-#email: 'wowthemesnet@gmail.com'
+email: 'bleuciel.market@gmail.com'
 
 include: ["_pages"]
 permalink: /:title/
