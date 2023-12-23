@@ -6,16 +6,9 @@ categories: [ Flaggen , Kunstwerke ]
 image: assets/images/Bilds/Flagge Glarus.png
 ---
 
-Eine Fahne flattert im Wind
+Eine Fahne flattert im Wind,
 
-Erkennen muss man sie geschind.
-
------
-
-
-Eine Fahne flattert im Wind
-
-Erkennen muss man sie geschind.
+erkennen muss man sie geschwind.
 
 -----
 

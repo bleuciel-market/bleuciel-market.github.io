@@ -7,9 +7,9 @@ image: assets/images/Bilds/Flagge Genf.png
 ---
 
 
-Eine Fahne flattert im Wind
+Eine Fahne flattert im Wind,
 
-Erkennen muss man sie geschind.
+erkennen muss man sie geschwind.
 
 -----
 

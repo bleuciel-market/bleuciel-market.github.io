@@ -10,7 +10,7 @@ Hoi – ich bin Bleuciel, der geniale Künstler, über den gerade alle reden. Ja
 Meine Zeichnungen sind wie moderne absolute Malerei verwoben mit Chaos. Ich habe Strichmännchen, die mehr aussehen wie absurd kringelige Nudeln, und Tiere, die scheinbar einmal durch den Turbogang der Waschmaschinen geschleudert worden sind. Aber wissen Sie was? Das ist alles Absicht. Ich bin ein Wegbereiter in der Welt der Ungesehenen Kunst – und ich fange erst gerade an. Die Kritiker verstehen diesen Umbruch vielleicht (noch) nicht, aber Sie werden es beim Blick in meine Sammlung sofort erkennen.
 
 
-Also, wenn Sie einen Einblick in den Verstand eines Genies (damit bin natürlich ich gemeint) haben möchten, schauen Sie sich mein «Kunst-Kuddemuddel» an. Es wird Sie zum Lachen, zum Staunen und zum Hinterfragen der eigentlichen Bedeutung von Kunst bringen. Glauben Sie mir, denn – so wahr Bleuciel heisse – ich verspreche Ihnen das Blaue vom Himmel. Wer braucht schon Schongesehenes in der Gegenwart einer reinen, kunterbunten Kreativität wie der meinen, oder?!
+Also, wenn Sie einen Einblick in den Verstand eines Genies (damit bin natürlich ich gemeint) haben möchten, schauen Sie sich mein «Kunst-Kuddelmuddel» an. Es wird Sie zum Lachen, zum Staunen und zum Hinterfragen der eigentlichen Bedeutung von Kunst bringen. Glauben Sie mir, denn – so wahr ich Bleuciel heisse – ich verspreche Ihnen das Blaue vom Himmel. Wer braucht schon Schongesehenes in der Gegenwart einer reinen, kunterbunten Kreativität wie der meinen, oder?!
 
 
 

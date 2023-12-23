@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  Flagge StGallen
+title:  Flagge St. Gallen
 author: Bleuciel
 categories: [ Flaggen , Kunstwerke ]
 image: assets/images/Bilds/Flagge StGallen.png
 ---
 
-Eine Fahne flattert im Wind
+Eine Fahne flattert im Wind,
 
-Erkennen muss man sie geschind.
+erkennen muss man sie geschwind.
 
 -----
 
