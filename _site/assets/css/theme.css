@@ -121,7 +121,7 @@ footer.footer {
     text-align: left;
 }
 .notraco {
-    background: #ffffff;
+    background: #006fce14;
     color: #333;
     border: 0;
     border-top: 0;
@@ -146,7 +146,7 @@ footer.footer {
 	color: #ffffff;
 }
 .card-pin.raco:hover .notraco {
-    background-color: #f0f0f0;
+    background-color: #89c8ff; //f0f0f0;
     transition: all 0.2s;
 }
 .social {
@@ -199,7 +199,7 @@ article .card-body {
     color:#333;
 }
 .btn-gray:hover {
-    background-color:#ddd;
+    background-color: #ddd;
 }
 .navbar-nav.categories  a   {
     font-size: 15px;
@@ -289,7 +289,7 @@ article .card-body {
     
 }
 .PageNavigation a:hover {
-    color:#333;
+    color: #006fce; //333;
 }
 a.prev {    
     left: 100px;    

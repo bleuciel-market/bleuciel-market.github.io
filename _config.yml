@@ -2,9 +2,9 @@
 name: 'Bleuciel Market'
 description: 'A collection of junk drawings of the one and only Bleuciel!'
 logo: 'assets/images/Logo_1_Blau.svg' #logo.png'
-favicon: 'assets/images/logo.png'
+favicon: 'assets/images/Logo_1_Blau.svg'
 baseurl: ''
-avatar: 'assets/images/avatar.png'
+avatar: #'assets/images/avatar.png'
 #email: 'wowthemesnet@gmail.com'
 
 include: ["_pages"]

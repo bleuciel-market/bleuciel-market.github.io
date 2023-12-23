@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Über mich"
 permalink: "/about.html"
 image: "/assets/images/laurent.png"
 ---
