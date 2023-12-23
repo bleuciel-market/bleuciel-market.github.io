@@ -90,6 +90,8 @@ footer.footer {
 .card {
 	border: 0;
     transition:ease .1s;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
+
 }
 .card-pin:hover .overlay {
 	opacity:.5;
@@ -119,7 +121,7 @@ footer.footer {
 }
 .card-pin.raco .card-title {
     text-align: left;
-}
+ }
 .notraco {
     background: #006fce14;
     color: #333;
