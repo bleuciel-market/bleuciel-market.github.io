@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  KandRan Zug
+title:  Kambly Zug
 author: Bleuciel
 categories: [ Kunstwerke ]
-image: assets/images/Bilds/KandRan Zug.png
+image: assets/images/Bilds/Kambly Zug.png
 ---
 
 Nach Rom führen viele Gleise,
 
-mit Deutscher Bahn keine Reise.
+zur Kamblyfabrik die Reise.
 
 -----
 

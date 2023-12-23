@@ -6,9 +6,9 @@ categories: [ Kunstwerke , Kubistische Phase ]
 image: assets/images/Bilds/Puzzlemaske.png
 ---
 
-Ihr Gesicht birgt tausend Fragen.
+Ihr Gesicht birgt tausend Fragen,
 
-Die die Welt mit Rätsel plagen.
+die die Welt mit Rätsel plagen.
 
 -----
 

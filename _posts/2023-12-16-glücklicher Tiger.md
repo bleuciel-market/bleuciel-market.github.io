@@ -8,7 +8,7 @@ image: assets/images/Bilds/glücklicher Tiger.png
 
 Wenn jeder Tag dein Glückstag ist,
 
-so weisst du dass du happy bist.
+so weisst du, dass du happy bist.
 
 -----
 

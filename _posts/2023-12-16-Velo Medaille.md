@@ -6,9 +6,9 @@ categories: [ Kunstwerke ]
 image: assets/images/Bilds/Velo Medaille.png
 ---
 
-Tritt kräftiger ins Pedal.
+Tritt kräftiger ins Pedal,
 
-Am Ziel erwartet dich der Gral.
+am Ziel erwartet dich der Gral.
 
 -----
 
