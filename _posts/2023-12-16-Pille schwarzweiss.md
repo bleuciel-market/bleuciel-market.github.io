@@ -2,7 +2,7 @@
 layout: post
 title:  Pille schwarzweiss
 author: Bleuciel
-categories: [ Artworks ]
-image: assets/images/Bilds/Pille schwarzweiss.jpg
+categories: [ Kunstwerke ]
+image: assets/images/Bilds/Pille schwarzweiss.png
 ---
-# Price: XXX CHF
+# Preis: 1.00 CHF

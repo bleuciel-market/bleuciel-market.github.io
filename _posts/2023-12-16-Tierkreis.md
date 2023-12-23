@@ -2,7 +2,7 @@
 layout: post
 title:  Tierkreis
 author: Bleuciel
-categories: [ Artworks ]
-image: assets/images/Bilds/Tierkreis.jpg
+categories: [ Kunstwerke , Tiere]
+image: assets/images/Bilds/Tierkreis.png
 ---
-# Price: XXX CHF
+# Preis: 1.00 CHF

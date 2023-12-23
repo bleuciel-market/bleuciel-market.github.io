@@ -2,7 +2,7 @@
 layout: post
 title:  Einsame Insel
 author: Bleuciel
-categories: [ Artworks ]
-image: assets/images/Bilds/Einsame Insel.jpg
+categories: [ Kunstwerke , Blaue Periode]
+image: assets/images/Bilds/Einsame Insel.png
 ---
-# Price: XXX CHF
+# Preis: 1.00 CHF

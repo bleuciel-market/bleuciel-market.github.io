@@ -2,7 +2,7 @@
 layout: post
 title:  Flagge grünweiss
 author: Bleuciel
-categories: [ Artworks ]
-image: assets/images/Bilds/Flagge grünweiss.jpg
+categories: [ Flaggen , Kunstwerke ]
+image: assets/images/Bilds/Flagge grünweiss.png
 ---
-# Price: XXX CHF
+# Preis: 1.00 CHF

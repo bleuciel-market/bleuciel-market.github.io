@@ -2,7 +2,7 @@
 layout: post
 title:  Schwarze Katze
 author: Bleuciel
-categories: [ Artworks ]
-image: assets/images/Bilds/Schwarze Katze.jpg
+categories: [ Kunstwerke  , Tiere]
+image: assets/images/Bilds/Schwarze Katze.png
 ---
-# Price: XXX CHF
+# Preis: 1.00 CHF

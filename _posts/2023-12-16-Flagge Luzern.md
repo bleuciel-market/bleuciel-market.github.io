@@ -2,7 +2,7 @@
 layout: post
 title:  Flagge Luzern
 author: Bleuciel
-categories: [ Artworks ]
-image: assets/images/Bilds/Flagge Luzern.jpg
+categories: [ Flaggen , Kunstwerke ]
+image: assets/images/Bilds/Flagge Luzern.png
 ---
-# Price: XXX CHF
+# Preis: 1.00 CHF

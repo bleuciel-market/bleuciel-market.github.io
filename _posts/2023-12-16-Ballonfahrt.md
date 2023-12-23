@@ -2,7 +2,7 @@
 layout: post
 title:  Ballonfahrt
 author: Bleuciel
-categories: [ Artworks ]
-image: assets/images/Bilds/Ballonfahrt.jpg
+categories: [ Kunstwerke , Blaue Periode ]
+image: assets/images/Bilds/Ballonfahrt.png
 ---
-# Price: XXX CHF
+# Preis: Unverkäuflich

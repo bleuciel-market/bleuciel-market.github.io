@@ -2,7 +2,7 @@
 layout: post
 title:  Flagge Wallis
 author: Bleuciel
-categories: [ Artworks ]
-image: assets/images/Bilds/Flagge Wallis.jpg
+categories: [ Flaggen , Kunstwerke ]
+image: assets/images/Bilds/Flagge Wallis.png
 ---
-# Price: XXX CHF
+# Preis: 1.00 CHF

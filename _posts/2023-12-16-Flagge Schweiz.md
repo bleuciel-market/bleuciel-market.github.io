@@ -2,7 +2,7 @@
 layout: post
 title:  Flagge Schweiz
 author: Bleuciel
-categories: [ Artworks ]
-image: assets/images/Bilds/Flagge Schweiz.jpg
+categories: [ Flaggen , Kunstwerke ]
+image: assets/images/Bilds/Flagge Schweiz.png
 ---
-# Price: XXX CHF
+# Preis: 1.00 CHF

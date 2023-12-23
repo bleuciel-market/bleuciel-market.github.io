@@ -2,7 +2,7 @@
 layout: post
 title:  Bischofsstab
 author: Bleuciel
-categories: [ Artworks ]
-image: assets/images/Bilds/Bischofsstab.jpg
+categories: [ Kunstwerke ]
+image: assets/images/Bilds/Bischofsstab.png
 ---
-# Price: XXX CHF
+# Preis: 1.00 CHF

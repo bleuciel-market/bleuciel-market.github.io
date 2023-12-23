@@ -2,7 +2,7 @@
 layout: post
 title:  Sommersee
 author: Bleuciel
-categories: [ Artworks ]
-image: assets/images/Bilds/Sommersee.jpg
+categories: [ Kunstwerke ]
+image: assets/images/Bilds/Sommersee.png
 ---
-# Price: XXX CHF
+# Preis: 1.00 CHF

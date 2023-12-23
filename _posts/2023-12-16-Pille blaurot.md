@@ -2,7 +2,7 @@
 layout: post
 title:  Pille blaurot
 author: Bleuciel
-categories: [ Artworks ]
-image: assets/images/Bilds/Pille blaurot.jpg
+categories: [ Kunstwerke ]
+image: assets/images/Bilds/Pille blaurot.png
 ---
-# Price: XXX CHF
+# Preis: 1.00 CHF

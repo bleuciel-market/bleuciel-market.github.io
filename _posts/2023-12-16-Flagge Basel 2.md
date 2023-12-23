@@ -2,7 +2,7 @@
 layout: post
 title:  Flagge Basel 2
 author: Bleuciel
-categories: [ Artworks ]
-image: assets/images/Bilds/Flagge Basel 2.jpg
+categories: [ Flaggen , Kunstwerke ]
+image: assets/images/Bilds/Flagge Basel 2.png
 ---
-# Price: XXX CHF
+# Preis: 1.00 CHF

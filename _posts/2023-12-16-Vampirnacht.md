@@ -2,7 +2,7 @@
 layout: post
 title:  Vampirnacht
 author: Bleuciel
-categories: [ Artworks ]
-image: assets/images/Bilds/Vampirnacht.jpg
+categories: [ Kunstwerke , Blaue Periode]
+image: assets/images/Bilds/Vampirnacht.png
 ---
-# Price: XXX CHF
+# Preis: 1.00 CHF

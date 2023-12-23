@@ -2,7 +2,7 @@
 layout: post
 title:  Puzzlemaske
 author: Bleuciel
-categories: [ Artworks ]
-image: assets/images/Bilds/Puzzlemaske.jpg
+categories: [ Kunstwerke , Kubistische Phase ]
+image: assets/images/Bilds/Puzzlemaske.png
 ---
-# Price: XXX CHF
+# Preis: 1.00 CHF

@@ -2,7 +2,7 @@
 layout: post
 title:  Flagge Zug
 author: Bleuciel
-categories: [ Artworks ]
-image: assets/images/Bilds/Flagge Zug.jpg
+categories: [ Flaggen , Kunstwerke ]
+image: assets/images/Bilds/Flagge Zug.png
 ---
-# Price: XXX CHF
+# Preis: 1.00 CHF

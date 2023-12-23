@@ -2,7 +2,7 @@
 layout: post
 title:  Flagge Bern
 author: Bleuciel
-categories: [ Artworks ]
-image: assets/images/Bilds/Flagge Bern.jpg
+categories: [ Flaggen , Kunstwerke ]
+image: assets/images/Bilds/Flagge Bern.png
 ---
-# Price: XXX CHF
+# Preis: 1.00 CHF

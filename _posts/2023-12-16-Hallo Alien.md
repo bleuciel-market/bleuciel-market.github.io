@@ -2,7 +2,7 @@
 layout: post
 title:  Hallo Alien
 author: Bleuciel
-categories: [ Artworks ]
-image: assets/images/Bilds/Hallo Alien.jpg
+categories: [ Kunstwerke , Weltraum ]
+image: assets/images/Bilds/Hallo Alien.png
 ---
-# Price: XXX CHF
+# Preis: 1.00 CHF

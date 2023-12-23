@@ -2,7 +2,7 @@
 layout: post
 title:  Flagge StGallen
 author: Bleuciel
-categories: [ Artworks ]
-image: assets/images/Bilds/Flagge StGallen.jpg
+categories: [ Flaggen , Kunstwerke ]
+image: assets/images/Bilds/Flagge StGallen.png
 ---
-# Price: XXX CHF
+# Preis: 1.00 CHF

@@ -2,7 +2,7 @@
 layout: post
 title:  orange Strasse
 author: Bleuciel
-categories: [ Artworks ]
-image: assets/images/Bilds/orange Strasse.jpg
+categories: [ Kunstwerke ]
+image: assets/images/Bilds/orange Strasse.png
 ---
-# Price: XXX CHF
+# Preis: 1.00 CHF

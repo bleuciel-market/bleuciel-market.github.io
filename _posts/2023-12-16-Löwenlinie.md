@@ -2,7 +2,7 @@
 layout: post
 title:  Löwenlinie
 author: Bleuciel
-categories: [ Artworks ]
-image: assets/images/Bilds/Löwenlinie.jpg
+categories: [ Kunstwerke , Tiere ]
+image: assets/images/Bilds/Löwenlinie.png
 ---
-# Price: XXX CHF
+# Preis: 1.00 CHF

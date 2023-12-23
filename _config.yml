@@ -1,7 +1,7 @@
 # Site
-name: 'Mess-terpieces'
+name: 'Bleuciel Market'
 description: 'A collection of junk drawings of the one and only Bleuciel!'
-logo: 'assets/images/logo.png'
+logo: 'assets/images/Logo_1_Blau.svg' #logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
 avatar: 'assets/images/avatar.png'

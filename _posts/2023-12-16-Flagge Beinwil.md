@@ -2,7 +2,7 @@
 layout: post
 title:  Flagge Beinwil
 author: Bleuciel
-categories: [ Artworks ]
-image: assets/images/Bilds/Flagge Beinwil.jpg
+categories: [ Flaggen , Kunstwerke ]
+image: assets/images/Bilds/Flagge Beinwil.png
 ---
-# Price: XXX CHF
+# Preis: 1.00 CHF

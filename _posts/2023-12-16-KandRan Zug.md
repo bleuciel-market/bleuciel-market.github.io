@@ -2,7 +2,7 @@
 layout: post
 title:  KandRan Zug
 author: Bleuciel
-categories: [ Artworks ]
-image: assets/images/Bilds/KandRan Zug.jpg
+categories: [ Kunstwerke ]
+image: assets/images/Bilds/KandRan Zug.png
 ---
-# Price: XXX CHF
+# Preis: 1.00 CHF

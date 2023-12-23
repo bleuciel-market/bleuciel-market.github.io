@@ -2,7 +2,7 @@
 layout: post
 title:  Flagge Aargau
 author: Bleuciel
-categories: [ Artworks ]
-image: assets/images/Bilds/Flagge Aargau.jpg
+categories: [ Flaggen , Kunstwerke ]
+image: assets/images/Bilds/Flagge Aargau.png
 ---
-# Price: XXX CHF
+# Preis: 1.00 CHF

@@ -2,7 +2,7 @@
 layout: post
 title:  Oldschool Kommunikation
 author: Bleuciel
-categories: [ Artworks ]
-image: assets/images/Bilds/Oldschool Kommunikation.jpg
+categories: [ Kunstwerke ]
+image: assets/images/Bilds/Oldschool Kommunikation.png
 ---
-# Price: XXX CHF
+# Preis: 1.00 CHF

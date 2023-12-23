@@ -2,7 +2,7 @@
 layout: post
 title:  Velo Medaille
 author: Bleuciel
-categories: [ Artworks ]
-image: assets/images/Bilds/Velo Medaille.jpg
+categories: [ Kunstwerke ]
+image: assets/images/Bilds/Velo Medaille.png
 ---
-# Price: XXX CHF
+# Preis: 1.00 CHF

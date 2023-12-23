@@ -20,7 +20,7 @@ a,.a:hover {
 	border-radius: 0;
 }
 blockquote {
-    border-left: 7px solid #bd081c;
+    border-left: 7px solid #006fce;
     padding-left: 20px;
     margin-left: 20px;
     font-style: italic;
@@ -170,9 +170,9 @@ article .card-body {
 	font-weight:500;
 }
 .pagination span.webjeda {
-	background:#bd081c;
+	background:#006fce;
 	color:#fff;
-	border:1px solid #bd081c;
+	border:1px solid #006fce;
 }
 .pagination a,.pagination span.prev,.pagination span.next {
 	background-color:#ffffff;
@@ -181,7 +181,7 @@ article .card-body {
 	color:#333;
 }
 .pagination a {
-	color:#bd081c;
+	color:#006fce;
 }
 .pagination a:hover {
 	background-color:#f1f1f1;
@@ -238,7 +238,7 @@ article .card-body {
      transition: all 0.2s;
 }
 .card-pin.raco:hover i.text-muted {
-    color:#bd081c !Important;
+    color:#006fce !Important;
      transition: all 0.2s;
     position: relative;
 }
@@ -325,7 +325,7 @@ a.next {
   font-style: italic;
 }
 .highlight .err {
-  color: #a61717;
+  color: #006fce;
   background-color: #e3d2d2;
 }
 .highlight .gd {
@@ -337,7 +337,7 @@ a.next {
   font-style: italic;
 }
 .highlight .gr {
-  color: #aa0000;
+  color: #006fce;
 }
 .highlight .gh {
   color: #999999;
@@ -359,7 +359,7 @@ a.next {
   color: #aaaaaa;
 }
 .highlight .gt {
-  color: #aa0000;
+  color: #006fce;
 }
 .highlight .kc {
   color: #000000;
@@ -510,3 +510,23 @@ a.next {
 .highlight {
   background-color: #f8f8f8;
 }
+
+
+.blockquote-custom {
+  position: relative;
+  font-size: 1.1rem;
+}
+
+.blockquote-custom-icon {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  top: -25px;
+  left: 50px;
+  background-color: #006fce;
+}
+

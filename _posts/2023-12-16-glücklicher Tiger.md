@@ -2,7 +2,7 @@
 layout: post
 title:  glücklicher Tiger
 author: Bleuciel
-categories: [ Artworks ]
-image: assets/images/Bilds/glücklicher Tiger.jpg
+categories: [ Kunstwerke , Tiere ]
+image: assets/images/Bilds/glücklicher Tiger.png
 ---
-# Price: XXX CHF
+# Preis: 1.00 CHF

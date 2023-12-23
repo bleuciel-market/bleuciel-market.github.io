@@ -2,7 +2,7 @@
 layout: post
 title:  Flagge Kanton
 author: Bleuciel
-categories: [ Artworks ]
-image: assets/images/Bilds/Flagge Kanton.jpg
+categories: [ Flaggen , Kunstwerke ]
+image: assets/images/Bilds/Flagge Kanton.png
 ---
-# Price: XXX CHF
+# Preis: 1.00 CHF

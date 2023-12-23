@@ -2,7 +2,7 @@
 layout: post
 title:  Schmetterling
 author: Bleuciel
-categories: [ Artworks ]
-image: assets/images/Bilds/Schmetterling.jpg
+categories: [ Kunstwerke , Tiere]
+image: assets/images/Bilds/Schmetterling.png
 ---
-# Price: XXX CHF
+# Preis: 1.00 CHF

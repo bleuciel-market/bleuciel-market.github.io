@@ -2,7 +2,7 @@
 layout: post
 title:  Flagge Uri
 author: Bleuciel
-categories: [ Artworks ]
-image: assets/images/Bilds/Flagge Uri.jpg
+categories: [ Flaggen , Kunstwerke ]
+image: assets/images/Bilds/Flagge Uri.png
 ---
-# Price: XXX CHF
+# Preis: 1.00 CHF

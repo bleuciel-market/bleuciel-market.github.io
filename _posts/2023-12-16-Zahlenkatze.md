@@ -2,7 +2,7 @@
 layout: post
 title:  Zahlenkatze
 author: Bleuciel
-categories: [ Artworks ]
-image: assets/images/Bilds/Zahlenkatze.jpg
+categories: [ Kunstwerke , Tiere ]
+image: assets/images/Bilds/Zahlenkatze.png
 ---
-# Price: XXX CHF
+# Preis: 1.00 CHF

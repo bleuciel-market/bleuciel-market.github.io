@@ -2,7 +2,7 @@
 layout: post
 title:  Baum und Bub
 author: Bleuciel
-categories: [ Artworks ]
-image: assets/images/Bilds/Baum und Bub.jpg
+categories: [ Tiere , Blaue Periode]
+image: assets/images/Bilds/Baum und Bub.png
 ---
-# Price: XXX CHF
+# Preis: 1.00 CHF

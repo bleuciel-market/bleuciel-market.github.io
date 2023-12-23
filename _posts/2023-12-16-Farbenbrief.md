@@ -2,7 +2,7 @@
 layout: post
 title:  Farbenbrief
 author: Bleuciel
-categories: [ Artworks ]
-image: assets/images/Bilds/Farbenbrief.jpg
+categories: [ Kunstwerke , Kubistische Phase]
+image: assets/images/Bilds/Farbenbrief.png
 ---
-# Price: XXX CHF
+# Preis: 1.00 CHF
