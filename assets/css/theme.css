@@ -149,7 +149,7 @@ footer.footer {
 	color: #ffffff;
 }
 .card-pin.raco:hover .notraco {
-    background-color: #89c8ff; //f0f0f0;
+    background-color: #89c8ff; /* f0f0f0; */
     transition: all 0.2s;
 }
 .social {
@@ -272,16 +272,21 @@ article .card-body {
     border-radius: 2px;
     box-shadow: 1px 1px 3px rgba(0,0,0,0.1);
 }
+
 .PageNavigation a {
-    position: fixed;
-    top: 47%;
+    position: inherit; /* fixed; */
+    display: inline-block;
+    top: .5rem; /* 47%; */
     font-weight: 700;
     color: #989696;
-    text-align: center;
     background: #ddd;
     border-radius: 40px;
     font-size:12px;
     line-height: 1.3;
+    text-align: center;
+    /* justify-content: center; */
+    /* align-items: center; */
+    /* margin: 0 auto; */
 }
 .PageNavigation a i {
     font-size:40px;
@@ -289,17 +294,20 @@ article .card-body {
     height:60px;
     line-height:60px;
     border-radius:50%;
-    
+    align-items: center;
+    margin: auto;
 }
 .PageNavigation a:hover {
-    color: #006fce; //333;
+    color: #006fce; /* 333; */
 }
 a.prev {    
-    left: 100px;    
+  left: 30% ; /*100px; */
+  /* align-items: center; */
 }
 a.next {
-    right: 100px;
-}
+  right: 30%; /* 100px; */
+  /* align-items: center; */
+} 
 #resultsmodal {
      background: rgba(255,255,255,0.8);
 }

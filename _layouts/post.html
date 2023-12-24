@@ -43,18 +43,20 @@ layout: default
                     
     				{% include comments.html %}
                     
-    			</div>  
-                    
+    			</div>       
     			</article>
-                
-                <div class="PageNavigation">
-                  {% if page.next.url %}
-                    <a class="prev" href="{{site.baseurl}}{{page.next.url}}"><i class="fa fa-angle-left"></i> </a>
-                  {% endif %}
-                  {% if page.previous.url %}
-                    <a class="next" href="{{site.baseurl}}{{page.previous.url}}"><i class="fa fa-angle-right"></i></a>
-                  {% endif %}
-                </div>
+    
+          <div class="PageNavigation">
+            <br>
+            <div style="text-align: center">
+              {% if page.previous.url %}
+                <a class="prev" href="{{site.baseurl}}{{page.previous.url}}"><i class="fa fa-angle-left"></i></a>
+              {% endif %}
+              {% if page.next.url %}
+                <a class="next" href="{{site.baseurl}}{{page.next.url}}"><i class="fa fa-angle-right"></i> </a>
+              {% endif %}
+            </div>
+          </div>
                 
     		</div>
     	</div>
